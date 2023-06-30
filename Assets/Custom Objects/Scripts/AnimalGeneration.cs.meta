@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b81ecf47cdaeae741937e37c03295fd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animalPrefab: {fileID: 2477085110153811322, guid: 022f3fa963bb50f4d96f2407f5d1fa19, type: 3}
+  - maleColor: {fileID: 2100000, guid: e6abbcc645278af419a43f83927e5a51, type: 2}
+  - femaleColor: {fileID: 2100000, guid: 2181eadcd6cfed94b8c31b7ba00d22a6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
